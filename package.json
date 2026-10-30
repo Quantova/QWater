@@ -1,6 +1,6 @@
 {
   "name": "@quantovainc/qwater",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Quantum secure registry records for water rights and allocations. Proves the allocation use reporting transfer and revocation of water rights, with ML-DSA-65 under FIPS 204 and Quantova time proofs. No holder data ever leaves the party that holds it.",
   "main": "index.js",
   "types": "index.d.ts",
